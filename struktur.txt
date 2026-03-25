@@ -1,0 +1,8 @@
+molty-op-bot/
+├── main.py
+├── bot.py
+├── config.py
+├── requirements.txt
+├── Procfile
+├── .env.example
+└── README.md
